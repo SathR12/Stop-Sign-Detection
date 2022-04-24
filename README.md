@@ -29,8 +29,3 @@ Works best with images, detecting stop signs in live stream is very slow and als
 
 
 <img width="549" alt="Screen Shot 2022-04-24 at 10 46 27 AM" src="https://user-images.githubusercontent.com/74515743/164983090-d37170a9-efa5-46c8-87c4-44221237646f.png">
-
-
-<img width="126" alt="Screen Shot 2022-04-06 at 5 00 50 PM" src="https://user-images.githubusercontent.com/74515743/164983108-074e96f5-086c-40e9-a984-6e8b3c4b6087.png">
-
-
